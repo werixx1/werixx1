@@ -1,5 +1,6 @@
 
 ![cat-smiling](https://github.com/user-attachments/assets/400ce5a7-1e9b-41ea-ab41-a5b9a318a1b5)
+(a draft of a readme, will prettify it later)
 <h1 align="left">hiiii helloooo:D</h1>
 <h3 align="left">if it works it works no need to get into details hehe (dont check my code)</h3>
 
