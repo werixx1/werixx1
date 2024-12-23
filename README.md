@@ -3,10 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=300&color=F76EE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=hi+hello!!+im+werix%2C;a+passionate+compsci+student+and+diy+programmer%3AD" alt="Typing SVG" /></a>
 <br><br>
 <pre>
-    ★second year uni student • programming and algorithms course
-    ★python and c# <3 • working my way to front-end and back-end
-    ★passion for graphic design • learning to develop mobile apps 
-    ★interest in machine learning • & astronomy
+    ★ second year uni student • programming and algorithms course
+    ★ python and c# <3 • working my way into front-end and back-end dev
+    ★ passion for graphic design • learning to develop mobile apps 
+    ★ interest in machine learning • & astronomy
 </pre>
 <br><br>
   <a href="https://skillicons.dev">
