@@ -1,11 +1,17 @@
-
-![cat-smiling](https://github.com/user-attachments/assets/400ce5a7-1e9b-41ea-ab41-a5b9a318a1b5)
-(a draft of a readme, will prettify it later)
-<h1 align="left">hiiii helloooo:D</h1>
-<h3 align="left">if it works it works no need to get into details hehe (dont check my code)</h3>
-
- ☆ currently working on uni project [ROOMPALS](https://github.com/nicoxeye/RoomPals)
-
-<h3 align="left">✢Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/149e17c0-fbd0-4930-89d4-75e77f55f194" width="20%" align="right" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=300&color=F76EE8&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=hi+hello!!+im+werix%2C;a+passionate+compsci+student+and+diy+programmer%3AD" alt="Typing SVG" /></a>
+<br><br>
+<pre>
+    ★second year uni student • programming and algorithms course
+    ★python and c# <3 • working my way to front-end and back-end
+    ★passion for graphic design • learning to develop mobile apps 
+    ★interest in machine learning • & astronomy
+</pre>
+<br><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,cs,java,figma,html,obsidian,ps,vscode," />
+  </a>
+</p>
+</div>
