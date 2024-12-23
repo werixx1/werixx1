@@ -9,9 +9,7 @@
     ★interest in machine learning • & astronomy
 </pre>
 <br><br>
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,python,cs,java,figma,html,obsidian,ps,vscode," />
   </a>
-</p>
 </div>
