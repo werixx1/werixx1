@@ -10,6 +10,6 @@
 </pre>
 <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,cs,java,figma,html,obsidian,ps,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,python,cs,java,figma,html,obsidian,ps,vscode,net" />
   </a>
 </div>
