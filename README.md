@@ -8,7 +8,7 @@
    `888  Y88Y    `b ( ) d'    Y88Y  888'             Languages: Python, C#, Java, Html, Css
     8MYb  '"        ,',        "'  dMY8              Tools: Git, VSCode, Vim, WSL, Figma, Photoshop
    j8prECIOUSgf"'   ':'   `"?g8prECIOUSk             Interests: astronomy, calisthenics, breakbeat music & machine learning
-     'Y'   .8'     d' 'b     '8.   'Y'               Other: im scared of the job market<3
+     'Y'   .8'     d' 'b     '8.   'Y'               Other: aspiring junior googler
       !   .8' db  d'; ;`b  db '8.   !                
          d88  `'  8 ; ; 8  `'  88b                   contact
         d88Ib   .g8 ',' 8g.   dI88b                  -------
