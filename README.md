@@ -7,7 +7,7 @@
  jTHEE!  .db.  Yb. '   ' .dY  .db.  8THEE!           Aspiring junior googler
    `888  Y88Y    `b ( ) d'    Y88Y  888'             Uni course: programming and algorithms
     8MYb  '"        ,',        "'  dMY8              Languages: Python, C#, Java, Html, Css
-   j8prECIOUSgf"'   ':'   `"?g8prECIOUSk             Tools: Git, VSCode, Vim, WSL, Figma, Photoshop
+   j8prECIOUSgf"'   ':'   `"?g8prECIOUSk             Tools: Git, VSCode, Vim, Jupyter Notebooks
      'Y'   .8'     d' 'b     '8.   'Y'               Interests: astronomy, calisthenics, breakbeat music & machine learning
       !   .8' db  d'; ;`b  db '8.   !                
          d88  `'  8 ; ; 8  `'  88b                   contact
