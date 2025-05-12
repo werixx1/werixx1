@@ -1,4 +1,4 @@
-<img align="left" width="420" src="https://github.com/user-attachments/assets/a4c830c7-d2f7-4f22-a7db-c5af73a5f568" />
+<img align="left" width="400" src="https://github.com/user-attachments/assets/a4c830c7-d2f7-4f22-a7db-c5af73a5f568" />
 
 # ✮
 <pre>
