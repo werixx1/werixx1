@@ -7,7 +7,7 @@
   Second year compsci student
   Aspiring junior answers googler
   Uni course: programming and algorithms
-  Languages: Python, C#, Java, Html, Css
+  Languages: Python, C, C#, Java, Html, Css
   Tools: Git, VSCode, Vim, Jupyter Notebooks
   Interests: astronomy, calisthenics,
   breakbeat music & machine learning
