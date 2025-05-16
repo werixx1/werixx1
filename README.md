@@ -5,12 +5,12 @@
   @.werixx
   --------
   Second year compsci student
-  Aspiring junior answers googler
-  Uni course: programming and algorithms
+  Master at gaslighting myself into liking my degree
+  Uni course: programming, algorithms and ml
   Languages: Python, C, C#, Java, Html, Css
-  Tools: Git, VSCode, Vim, Jupyter Notebooks
-  Interests: astronomy, calisthenics,
-  breakbeat music & machine learning
+  Tools: Git, VSCode, Vim, Jupyter Notebooks, ArduinoIDE
+  Interests: astronomy, breakbeat music,
+  machine learning & electronics
   
   contact
   -------
