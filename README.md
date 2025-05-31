@@ -1,4 +1,4 @@
-<img align="left" width="350" src="https://github.com/user-attachments/assets/284157f8-688c-4966-a932-208a544ad179" />
+<img align="left" width="350" height="450" src="https://github.com/user-attachments/assets/4333501f-e07b-4bec-8606-c2248f08e72b" />
 
 # ✮
 <pre>
