@@ -1,4 +1,4 @@
-<img align="left" width="350" height="450" src="https://github.com/user-attachments/assets/4333501f-e07b-4bec-8606-c2248f08e72b" />
+<img align="left" width="300" src="https://github.com/user-attachments/assets/8d265f6c-4abb-4c28-943e-d3c7bbb5470e" />
 
 # ✮
 <pre>
@@ -14,10 +14,12 @@
   
   contact
   -------
+
   Email: willbemyemail@gmail.com
   LinkedIn: willbelinked.someday
 
 </pre>
+
 
 
 
