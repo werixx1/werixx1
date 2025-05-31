@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.com/user-attachments/assets/02a5ba1f-c8cc-4c66-a81f-99b87799c9c3" />
+<img align="left" width="350" src="https://github.com/user-attachments/assets/284157f8-688c-4966-a932-208a544ad179" />
 
 # ✮
 <pre>
@@ -18,6 +18,7 @@
   LinkedIn: willbelinked.someday
 
 </pre>
+
 
 
 
