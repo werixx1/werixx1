@@ -22,11 +22,25 @@
   </samp>
 </p>
 
-<img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=werixx1&show_icons=true&count_private=true&theme=radical"
-                                  height="192px" width="49.5%"/>
-<img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=werixx1&langs_count=8&layout=compact&theme=radical" 
-  height="192px" width="49.5%"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=werixx1&theme=radical&show_icons=true&count_private=true" width="49.5%"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=werixx1&layout=compact&langs_count=8&card_width=320&theme=radical" width="49.5%"/>
+</a>
 
+<!--
+ <h3 align="center">
+        <samp>&gt; Academic projects:
+        </samp>
+</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=ambient_gradient" width="49.5%"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" width="49.5%"/>
+</a>
+-->
 
 
 
