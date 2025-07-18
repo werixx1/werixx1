@@ -12,11 +12,11 @@
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a second year compsi student pursuing field of <b>machine learning</b> 」
+    「 I am a second year compsi student pursuing field of <b>data science / machine learning</b> 」
     <br>
-    「 Uni course: programming, algorithms and ml」
+    「 Uni specialization: programming, algorithms and ml」
     <br>
-    「 Tools: Git, VSCode, Vim, Jupyter Notebooks, ArduinoIDE 」
+    「 Currently <a target="_blank" href="https://werixx1.craft.me/internship-notes">learning</a>: bit of embedded, electronics and neural networks :] 」
     <br>
     <br>
   </samp>
