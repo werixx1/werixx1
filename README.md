@@ -16,7 +16,8 @@
     <br>
     「 Uni specialization: programming, algorithms and ml」
     <br>
-    「 Currently <a target="_blank" href="https://werixx1.craft.me/internship-notes">learning</a>: bit of embedded, electronics and neural networks :] 」
+<!-- <a target="_blank" href="https://werixx1.craft.me/internship-notes"> -->
+    「 Currently learning: bit of embedded, electronics and neural networks :] 」
     <br>
     <br>
   </samp>
