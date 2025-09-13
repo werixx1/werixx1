@@ -12,12 +12,12 @@
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a second year compsi student pursuing field of <b>data science / machine learning</b> 」
+    「 I am a third year compsi student pursuing field of <b>data science / machine learning</b> 」
     <br>
     「 Uni specialization: programming, algorithms and ml」
     <br>
 <!-- <a target="_blank" href="https://werixx1.craft.me/internship-notes"> -->
-    「 Currently learning: bit of embedded, electronics and neural networks :] 」
+    「 Currently learning: time series prediction with LSTMs :] 」
     <br>
     <br>
   </samp>
