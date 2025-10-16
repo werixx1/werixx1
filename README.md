@@ -1,13 +1,4 @@
-```java
-import Machine
-
-Machine = new Machine();
-Machine.Unlearn();
-```
-<img width="20" height="20" alt="poopy-removebg-preview" src="https://github.com/user-attachments/assets/a41be272-7900-421f-87bf-17d4b158bc14" />
-<img width="20" height="20" alt="poopy-removebg-preview" src="https://github.com/user-attachments/assets/a41be272-7900-421f-87bf-17d4b158bc14" />
-<img width="20" height="20" alt="poopy-removebg-preview" src="https://github.com/user-attachments/assets/a41be272-7900-421f-87bf-17d4b158bc14" />
-
+![Metrics](https://metrics.lecoq.io/werixx1?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=Jupyter%20Notebook&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FWarsaw)
 
 
 
