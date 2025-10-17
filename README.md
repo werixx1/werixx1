@@ -1,5 +1,13 @@
-![Metrics](https://metrics.lecoq.io/werixx1?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=Jupyter%20Notebook&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FWarsaw)
 
+<p align="center"> <samp> do what i like, like what i do :)</samp> </p>
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=werixx1&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=werixx1&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=werixx1&theme=tokyonight)|
+|-----|------|------|
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,matlab,raspberrypi,neovim" />
+  </a>
+</p>
 
 
 
