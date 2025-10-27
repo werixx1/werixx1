@@ -5,7 +5,7 @@
 |-----|------|------|
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,opencv,matlab,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,pytorch,opencv,matlab,raspberrypi,arduino" />
   </a>
 </p>
 
