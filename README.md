@@ -1,8 +1,8 @@
 <p align="center"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/pytorch-a9fef7">
+<img alt="Static Badge" src="https://img.shields.io/badge/pytorch-C0EBE5">
 <img alt="Static Badge" src="https://img.shields.io/badge/pandas-fe428e">
 <img alt="Static Badge" src="https://img.shields.io/badge/tensorflow-e4e2e2">
-<img alt="Static Badge" src="https://img.shields.io/badge/open%20cv-f8d847">
+<img alt="Static Badge" src="https://img.shields.io/badge/open%20cv-E8D17B">
 </p>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
   <samp>
   「 I am a third year compsci student pursuing field of <b>data science</b> 」
     <br>
-    「 while tinkering with embedded :) 」
+    「 In free time I tinker with embedded :) 」
     <br>
     「 Tools: Git, VSCode, Jupyter Notebooks, ArduinoIDE, MATLAB, Simulink 」
     <br>
@@ -27,7 +27,7 @@
 |-----|------|
 -->
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=werixx1&theme=radical)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=werixx1&theme=radical&exclude=jupyter%20Notebook)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=werixx1&theme=radical&exclude=jupyter%20Notebook)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=werixx1&theme=nord_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=werixx1&theme=nord_dark&exclude=html,jupyter%20Notebook)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=werixx1&theme=nord_dark&exclude=html,jupyter%20Notebook)|
 |-----|------|------|
 
 
