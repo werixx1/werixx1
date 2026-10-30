@@ -2,7 +2,7 @@
 - Personal projects: [✴PERSONAL projects](https://github.com/stars/werixx1/lists/personal-projects)
 - Uni projects: [✴UNI projects](https://github.com/stars/werixx1/lists/uni-projects)
   
-<img width="200" height="200" alt="dance" src="https://github.com/user-attachments/assets/fcaa17f9-923b-402b-822e-3c60f9480283" />
+<img width="70" height="70" alt="dance" src="https://github.com/user-attachments/assets/fcaa17f9-923b-402b-822e-3c60f9480283" />
 
 
 
